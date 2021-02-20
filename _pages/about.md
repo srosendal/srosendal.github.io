@@ -1,11 +1,13 @@
 ---
-title: About me
+title: About srosendal
 subtitle: Personal is the perfect theme for developers, designers and other creatives.
 description: Personal is the perfect theme for developers, designers and other creatives.
 featured_image: /images/demo/about.jpg
 ---
 
 ## Features
+
+Hello World
 
 We've packed Personal full of powerful features to help showcase your work:
 
