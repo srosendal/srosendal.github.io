@@ -9,7 +9,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'IOR'
-      url: 'www.ior.dk/'
+      url: 'https://srosendal.github.io/ior/'
     - title: 'Plan8'
       url: 'https://srosendal.github.io/plan8/'
     - title: 'About'
