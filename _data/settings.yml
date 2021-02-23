@@ -13,9 +13,7 @@ menu_settings:
     - title: 'Plan8'
       url: 'https://srosendal.github.io/plan8/'
     - title: 'About'
-      url: '/project/about'
-    - title: 'Contact'
-      url: '/contact'
+      url: '/about'
 
 footer_settings:
   footer_tagline: inventions, investments & more
